@@ -15,6 +15,7 @@ from .rotor_assembly import *
 from .multi_rotor import *
 from .shaft_element import *
 from .coupling_element import *
+from .health_simulator import *
 from .units import Q_
 from .utils import get_data_from_figure, visualize_matrix
 from ross.bearings.lubricants import lubricants_dict
